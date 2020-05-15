@@ -13,16 +13,16 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Solid
+  - SolidObject
+  - SolidMoveableObject
+  - Oneway
+  - Spikes
+  - Ladder
+  - Door
+  - Particle
+  - Breakable
   - 
   - 
   - 
